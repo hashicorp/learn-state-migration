@@ -1,4 +1,4 @@
-# Terraform configuration
+## Terraform configuration
 
 variable "name_length" {
   description = "The number of words in the pet name"
